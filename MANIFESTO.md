@@ -85,5 +85,5 @@ If you build end to end, you are already here. If you are trying to get there, y
 
 -----
 
-**Version history and contributions:** [github.com/devwhateverops](https://github.com/devwhateverops)  
+**Version history and contributions:** [github.com/devwhateverops](https://github.com/chipi/devwhateverops)  
 **Author:** Marko Dragoljevic · [LinkedIn](https://www.linkedin.com/in/markodragoljevic)
